@@ -48,9 +48,9 @@ use Drm\Core\DRM;
         <div class="jumbotron">
             <h1 class="display-4" align="center">CSS & JS</h1>
             <p align="center">
-                <img src="<?php BASEURL ?>images/fontawasome.png" alt="fontawasome" width="100px" height="100px">
-                <img src="<?php BASEURL ?>images/boot.png" alt="fontawasome" width="100px" height="100px">
-                <img src="<?php BASEURL ?>images/animejs.jpg" alt="fontawasome" width="100px" height="100px">
+                <img src="<?php BASEURL ?>images/fontawasome.png" alt="fontawasome" width="50px" height="50px">
+                <img src="<?php BASEURL ?>images/boot.png" alt="fontawasome" width="50px" height="50px">
+                <img src="<?php BASEURL ?>images/animejs.jpg" alt="fontawasome" width="50px" height="50px">
             </p>
         </div>
     </div>
